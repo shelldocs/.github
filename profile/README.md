@@ -1,1 +1,1 @@
-# AI-X 심화반 16기
+# SHELL DOCS
